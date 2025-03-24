@@ -29,8 +29,8 @@
 ---
 
 ### 📬 Connect with me  
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Linkedin.com/sirajulhoque1)  
-[![Facebook] (https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sirajulhoque101)  
-[![Email] (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)  siraj15863@gmail.com, sirajul@pannabd.com, sirajulhoque@iut-dhaka.edu  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Linkedin.com/sirajulhoque1)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sirajulhoque101)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) siraj15863@gmail.com, sirajul@pannabd.com, sirajulhoque@iut-dhaka.edu  
 
 ---
